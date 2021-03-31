@@ -97,7 +97,7 @@ author:
   name             : "jae hyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발자가 되기 위해 기록합니다."
-  location         : "대한민국"
+  location         : "South Korea"
   email            : jaynote2021@gmail.com
   links:
     - label: "Email"
@@ -208,9 +208,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5 # # 첫 페이지에보여줄 최근 게시물 수를 지정
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -277,14 +277,25 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: #  블로그 댓글 기능 true
       share: true
       related: true
 
   # _pages
-  - scope:
-      path: "_pages"
+ - scope:
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
+      
+# Analytics
+analytics:
+  provider               : false # 구글 어날리틱스 등록 false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
