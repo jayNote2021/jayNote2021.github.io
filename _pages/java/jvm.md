@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /java/jvm
+permalink: /java/jvm/
 ---
 
 [Java JVM에 대하여](https://jaynote2021.github.io/java/jvm)
