@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "jae hyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "기록은 기억을 이긴다!"
-  location         : "Somewhere"
+  bio              : "개발자가 되기 위해 기록합니다."
+  location         : "대한민국"
   email            : jaynote2021@gmail.com
   links:
     - label: "Email"
