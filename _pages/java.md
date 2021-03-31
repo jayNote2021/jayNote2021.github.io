@@ -1,7 +1,7 @@
 ---
 title: "Java 스터디 공간"
 permalink: /java/
-#layout: categories
+layout: categories
 #layout: single
 ---
 
