@@ -6,6 +6,8 @@ main:
   url : /spring/
   - title: "JPA"
   url : /jpa/
+  - title: "Notion"
+  url : https://www.notion.so/jaehyun0119/JAVA-Spring-Boot-JPA-264690c04b714052bf7bf98b02a1167d
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
