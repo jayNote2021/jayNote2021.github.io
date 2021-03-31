@@ -1,11 +1,8 @@
 ---
 layout: categories
 permalink: /java/jvm/
+title : "1장. java JVM이란? 그리고 JVM구조"
 ---
-# 1장. java JVM이란? 그리고 JVM구조
-
----
-
 ### References
 
 - [https://gbsb.tistory.com/2](https://gbsb.tistory.com/2)
