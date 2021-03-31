@@ -20,7 +20,7 @@ title                    : "Jay Note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jay"
-description              : "개발자가 되기 위해 정리하는 노트입니다."
+description              : ""
 url                      : "https://jayNote2021.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
