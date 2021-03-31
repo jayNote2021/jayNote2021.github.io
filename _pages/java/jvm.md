@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /java/jvm/
+permalink: /java/jvm
 ---
 # 1장. java JVM이란? 그리고 JVM구조
 
