@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "JAVA"
-  - url : /java/
+  url : /java/
   - title: "Spring"
-  - url : /spring/
+  url : /spring/
   - title: "JPA"
-  - url : /jpa/
+  url : /jpa/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
