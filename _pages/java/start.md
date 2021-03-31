@@ -1,6 +1,6 @@
 ---
 layout: categories
 permalink: /java/
-title:  "java 시작"
+title:  "java 시작 페이지"
 ---
-# java 시작 페이지
+
