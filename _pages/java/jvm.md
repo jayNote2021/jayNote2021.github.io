@@ -2,9 +2,6 @@
 layout: categories
 permalink: /java/jvm/
 ---
-
-[Java JVM에 대하여](https://jaynote2021.github.io/java/jvm)
-
 # 1장. java JVM이란? 그리고 JVM구조
 
 ---
